@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor2">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundColor2">
+
+        <ImageView
+            android:id="@+id/falatron_logo_menu"
+            android:layout_width="147dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/falatron_logo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/falatron_logo_menu" />
+
+        <Button
+            android:id="@+id/patreon_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:text="Patreon"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            android:padding="2dp"
+            app:layout_constraintStart_toStartOf="@+id/view"
+            app:layout_constraintTop_toBottomOf="@+id/view" />
+
+        <ImageView
+            android:id="@+id/contImagem"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_patreon"
+            app:layout_constraintBottom_toBottomOf="@+id/patreon_button"
+            app:layout_constraintEnd_toEndOf="@+id/view"
+            app:layout_constraintTop_toTopOf="@+id/patreon_button" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/patreon_button" />
+
+        <Button
+            android:id="@+id/discord_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:padding="2dp"
+            android:text="Discord"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            app:layout_constraintStart_toStartOf="@+id/view2"
+            app:layout_constraintTop_toBottomOf="@+id/view2"
+            tools:layout_editor_absoluteX="5dp" />
+
+        <ImageView
+            android:id="@+id/discordImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_discord"
+            app:layout_constraintBottom_toBottomOf="@+id/discord_button"
+            app:layout_constraintEnd_toEndOf="@+id/view2"
+            app:layout_constraintTop_toTopOf="@+id/discord_button"
+            tools:layout_editor_absoluteX="355dp" />
+
+        <View
+            android:id="@+id/view4"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/discord_button"/>
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:text="Twitter"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            android:padding="2dp"
+            app:layout_constraintStart_toStartOf="@+id/view4"
+            app:layout_constraintTop_toBottomOf="@+id/view4" />
+
+        <ImageView
+            android:id="@+id/twitterImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_twitter"
+            app:layout_constraintBottom_toBottomOf="@+id/twitter_button"
+            app:layout_constraintEnd_toEndOf="@+id/view4"
+            app:layout_constraintTop_toTopOf="@+id/twitter_button" />
+
+        <View
+            android:id="@+id/view6"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/twitter_button" />
+
+        <Button
+            android:id="@+id/youtube_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:text="Youtube"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            android:padding="2dp"
+            app:layout_constraintStart_toStartOf="@+id/view6"
+            app:layout_constraintTop_toBottomOf="@+id/view6" />
+
+        <ImageView
+            android:id="@+id/youtubeImage"
+            android:layout_width="30dp"
+            android:layout_height="28dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_youtube"
+            app:layout_constraintBottom_toBottomOf="@+id/youtube_button"
+            app:layout_constraintEnd_toEndOf="@+id/view6"
+            app:layout_constraintTop_toTopOf="@+id/youtube_button" />
+
+        <View
+            android:id="@+id/view7"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youtube_button"/>
+
+        <Button
+            android:id="@+id/tiktok_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:text="TikTok"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            android:padding="2dp"
+            app:layout_constraintStart_toStartOf="@+id/view7"
+            app:layout_constraintTop_toBottomOf="@+id/view7" />
+
+        <ImageView
+            android:id="@+id/tiktokImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_tiktok"
+            app:layout_constraintBottom_toBottomOf="@+id/tiktok_button"
+            app:layout_constraintEnd_toEndOf="@+id/view7"
+            app:layout_constraintTop_toTopOf="@+id/tiktok_button" />
+
+        <View
+            android:id="@+id/view8"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tiktok_button"/>
+
+        <Button
+            android:id="@+id/reddit_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:text="Reddit"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            android:padding="2dp"
+            app:layout_constraintStart_toStartOf="@+id/view8"
+            app:layout_constraintTop_toBottomOf="@+id/view8" />
+
+        <ImageView
+            android:id="@+id/redditImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_reddit"
+            app:layout_constraintBottom_toBottomOf="@+id/reddit_button"
+            app:layout_constraintEnd_toEndOf="@+id/view8"
+            app:layout_constraintTop_toTopOf="@+id/reddit_button" />
+
+        <View
+            android:id="@+id/view9"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/reddit_button" />
+
+        <Button
+            android:id="@+id/falatron_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:padding="2dp"
+            android:text="Site Falatron"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            app:layout_constraintStart_toStartOf="@+id/view9"
+            app:layout_constraintTop_toBottomOf="@+id/view9" />
+
+        <ImageView
+            android:id="@+id/falatronImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/ic_falatron"
+            app:layout_constraintBottom_toBottomOf="@+id/falatron_button"
+            app:layout_constraintEnd_toEndOf="@+id/view9"
+            app:layout_constraintTop_toTopOf="@+id/falatron_button" />
+
+        <View
+            android:id="@+id/view10"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/falatron_button" />
+
+        <Button
+            android:id="@+id/compartilhe_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:padding="2dp"
+            android:text="Compatilhe"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            app:layout_constraintStart_toStartOf="@+id/view9"
+            app:layout_constraintTop_toBottomOf="@+id/falatron_button" />
+
+        <ImageView
+            android:id="@+id/compartilheImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/baseline_assessment_24"
+            app:layout_constraintBottom_toBottomOf="@+id/avalie_button"
+            app:layout_constraintEnd_toEndOf="@+id/view11"
+            app:layout_constraintTop_toTopOf="@+id/avalie_button" />
+
+        <View
+            android:id="@+id/view11"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/compartilhe_button" />
+
+        <Button
+            android:id="@+id/avalie_button"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/comfortaa_bold"
+            android:gravity="start|center_vertical"
+            android:padding="2dp"
+            android:text="Avalie nosso aplicativo"
+            android:textAllCaps="false"
+            android:textColor="@color/text_menu_color"
+            android:textSize="15dp"
+            app:layout_constraintStart_toStartOf="@+id/view9"
+            app:layout_constraintTop_toBottomOf="@+id/compartilhe_button" />
+
+        <ImageView
+            android:id="@+id/avalieImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/baseline_share_24"
+            app:layout_constraintBottom_toBottomOf="@+id/compartilhe_button"
+            app:layout_constraintEnd_toEndOf="@+id/view10"
+            app:layout_constraintTop_toTopOf="@+id/compartilhe_button" />
+
+        <View
+            android:id="@+id/view12"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:background="@android:color/holo_blue_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/avalie_button" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

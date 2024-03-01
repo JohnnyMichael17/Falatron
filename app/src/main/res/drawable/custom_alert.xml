@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="CustomSweetAlertDialogStyle">
+    <item name="confirmButtonBackgroundColor">#FF5733</item> <!-- Cor de fundo do botão de confirmação -->
+    <item name="confirmButtonTextColor">#FFFFFF</item> <!-- Cor do texto do botão de confirmação -->
+</style>

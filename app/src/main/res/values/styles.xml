@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="spinner_categoria">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="android:layout_width">391dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginTop">88dp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:background">@drawable/spinner_bg</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+    <style name="menuButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="ButtonTextStyle">
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="SweetAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/blue</item>
+    </style>
+</resources>

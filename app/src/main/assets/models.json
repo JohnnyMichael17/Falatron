@@ -1,0 +1,1530 @@
+{
+  "models": [
+    {
+      "author": "Bob, Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987061099650248724/i.png",
+      "name": "Iberê Thenório (Manual do Mundo)",
+      "path": "models/Ibere"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://pbs.twimg.com/media/Eg7WA_eXYAM8RHL.jpg",
+      "name": "Kylespark",
+      "path": "models/KylesparkYoutuber"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Star Wars",
+      "description": "",
+      "dublador": "Pádua Moreira",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987069823383117844/crop.png",
+      "name": "Darth Vader (Voz com Filtro)",
+      "path": "models/VaderFiltroPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987063872055803946/crop.png",
+      "name": "Dilma Roussef",
+      "path": "models/Dilma_Roussef"
+    },
+    {
+      "author": "Dimitri e Miranha",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Mário Vilela",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/986988158807867404/nhonho.png",
+      "name": "Nhonho",
+      "path": "models/NhonhoPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Futurama",
+      "description": "",
+      "dublador": "Aldo César",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987057923559665834/crop.png",
+      "name": "Bender",
+      "path": "models/BenderPipeline"
+    },
+    {
+      "author": "Dimitri, Bob",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994426761179824129/unknown.png",
+      "name": "Natanael Antonioli (Fábrica de Noobs)",
+      "path": "models/Natanael"
+    },
+    {
+      "author": "Pedroso, Anônimo",
+      "category": "Disney",
+      "description": "",
+      "dublador": "Pedro de Saint Germain",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987012940819484672/timao.png",
+      "name": "Timão",
+      "path": "models/Timão"
+    },
+    {
+      "author": "NicoBros, IBob",
+      "category": "Cantores",
+      "description": "Feito com a mesma dataset do modelo do Uberduck.",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/988139683294871582/crop.png",
+      "name": "Nego Bam",
+      "path": "models/NegoBamPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Pica Pau",
+      "description": "",
+      "dublador": "Julio Municio Torres",
+      "image": "https://pbs.twimg.com/media/EX8SR5MWoAM5pcz.jpg",
+      "name": "Leôncio",
+      "path": "models/Leoncio"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://avatars.cloudflare.steamstatic.com/63784b587d26d0c599936c505a27710e563f6a70_full.jpg",
+      "name": "Rik Editor",
+      "path": "models/RikPipeline"
+    },
+    {
+      "author": " Anônimo",
+      "category": "Rick & Morty",
+      "description": "",
+      "dublador": "Caio Cesar Nunes",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987075858772688936/crop.png",
+      "name": "Rick Sanchez",
+      "path": "models/RickPipeline.pt"
+    },
+    {
+      "author": "negaodaBL, Anônimo, Cris",
+      "category": "DC Universe",
+      "description": "",
+      "dublador": "Iara Riça",
+      "image": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png",
+      "name": "Arlequina",
+      "path": "models/Arlequina.pt"
+    },
+    {
+      "author": "Cris, Beck, Twist",
+      "category": "Flintstones",
+      "description": "Dá risada com huhuhuhu",
+      "dublador": "Waldyr Guedes",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994424106021818478/barney2.png",
+      "name": "Barney Rubble",
+      "path": "models/Barney"
+    },
+    {
+      "author": "Paulão Guedes, dk'harris",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/987026024057426000/background-remove.png",
+      "name": "Peter Turguniev (ANCAPSU)",
+      "path": "models/PeterPipeline.pt"
+    },
+    {
+      "author": "Cris",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Christiane Louise",
+      "image": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Icon-Mercy.png",
+      "name": "Mercy",
+      "path": "models/MercyPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/986992219003179018/mickey.png",
+      "name": "Mickey Mouse",
+      "path": "models/Mickey.pt"
+    },
+    {
+      "author": "fabriciocybershell",
+      "category": "He-Man",
+      "description": "",
+      "dublador": "Isaac Bardavid",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987030739096858694/unknown.png",
+      "name": "Esqueleto",
+      "path": "models/Esqueleto"
+    },
+    {
+      "author": " Anônimo",
+      "category": "League of Legends",
+      "description": "",
+      "dublador": "José Carlos Guerra",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987058491317428284/crop.png",
+      "name": "Ivern",
+      "path": "models/IvernPipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Irmãos Mario",
+      "description": "",
+      "dublador": "Antonio Patiño",
+      "image": "https://i.pinimg.com/originals/f9/25/12/f92512ea4772700ddd49623652bd8f68.png",
+      "name": "Mario",
+      "path": "models/Mario.pt"
+    },
+    {
+      "author": "Cris, Beck, Twist",
+      "category": "Flintstones",
+      "description": "",
+      "dublador": "Marthus Mathias",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/987057173609734225/crop.png",
+      "name": "Fred Flintstone",
+      "path": "models/Fred"
+    },
+    {
+      "author": "fabriciocybershell",
+      "category": "He-Man",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987077237188751390/crop.png",
+      "name": "He-Man",
+      "path": "models/Heman"
+    },
+    {
+      "author": "Cris",
+      "category": "Colônia Contra Ataca",
+      "description": "",
+      "dublador": "",
+      "image": "https://pbs.twimg.com/media/DjsiVTUW0AEZpHa.png",
+      "name": "Bob (Dono da Vinet)",
+      "path": "models/BobPipeline"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Colônia Contra Ataca",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987012420654485574/odiador.png",
+      "name": "O Odiador",
+      "path": "models/OdiadorPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Nelson Machado",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/986988811756130314/quico.png",
+      "name": "Quico",
+      "path": "models/QuicoPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Mortal Kombat",
+      "description": "",
+      "dublador": "Júnior Nannetti",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987058033303625728/crop.png",
+      "name": "Baraka",
+      "path": "models/BarakaPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994427592738357328/donald.png",
+      "name": "Pato Donald",
+      "path": "models/DonaldPipeline"
+    },
+    {
+      "author": "Cris, Beck, Dimitri",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Carlos Seidl",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/986987083019206686/madruga.png",
+      "name": "Seu Madruga",
+      "path": "models/SeuMadruga.pt"
+    },
+    {
+      "author": "Cris",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987061271218241556/crop.png",
+      "name": "Cauê Moura (Desce a Letra)",
+      "path": "models/Caue"
+    },
+    {
+      "author": "J CrashBandicoot F",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "http://images.uncyc.org/pt/3/30/Schiavon.png",
+      "name": "Gemaplys",
+      "path": "models/Gemaplys"
+    },
+    {
+      "author": "Sr.Almeida, Cris",
+      "category": "Disney",
+      "description": "",
+      "dublador": "José do Patrocínio Oliveira",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987056656598839336/crop.png",
+      "name": "Zé Carioca",
+      "path": "models/ZéCariocaPipeline"
+    },
+    {
+      "author": "Bob, Dimitri e VentiladorCego",
+      "category": "Chaves/Chespirito",
+      "description": "Contém algumas frases com sentence mixing (do bomberpooper)",
+      "dublador": "Marcelo Gastaldi",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987024935891402803/1655395323665.jpg",
+      "name": "Chaves",
+      "path": "models/ChavesPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Scooby-Doo",
+      "description": "",
+      "dublador": "Nair Amorim",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987070968197419018/crop.png",
+      "name": "Velma Dinkley",
+      "path": "models/Velma"
+    },
+    {
+      "author": "IBob",
+      "category": "Peppa Pig",
+      "description": "",
+      "dublador": "",
+      "image": "",
+      "name": "Narrador da Peppa Pig",
+      "path": "models/NarradorPeppa"
+    },
+    {
+      "author": "Pedroso e Cris",
+      "category": "Looney Tunes",
+      "description": "",
+      "dublador": "Mário Monjardim",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987069561843101736/unknown.png",
+      "name": "Pernalonga",
+      "path": "models/Pernalonga.pt"
+    },
+    {
+      "author": "Cris",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Márcio Dondi",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987079554621382666/crop.png",
+      "name": "Roadhog",
+      "path": "models/Roadhog"
+    },
+    {
+      "author": "Twist",
+      "category": "Yu-Gi-Oh!",
+      "description": "",
+      "dublador": "Mauro Eduardo Lima",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1024474604590342154/kaiba.png",
+      "name": "Seto Kaiba",
+      "path": "models/SetoKaibaPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Shrek",
+      "description": "Feito com 40 segundos de áudio apenas.",
+      "dublador": "Bussunda",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987069149568184340/crop.png",
+      "name": "Shrek",
+      "path": "models/Shrek.pt"
+    },
+    {
+      "author": " Anônimo",
+      "category": "Mortal Kombat",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987063101188878416/crop.png",
+      "name": "Robocop",
+      "path": "models/Robocop"
+    },
+    {
+      "author": "AbcTheHuman2, Anônimo",
+      "category": "Sonic, o Ouriço",
+      "description": "",
+      "dublador": "Isaac Bardavid",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987071166730625084/crop.png",
+      "name": "Robotnik",
+      "path": "models/RobotnikPipeline"
+    },
+    {
+      "author": "Madruguinha",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Helena Samara",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987011480631267448/clotilde.png",
+      "name": "Dona Clotilde",
+      "path": "models/Bruxa.pt"
+    },
+    {
+      "author": "Madruguinha, Bob",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Marcelo Gastaldi",
+      "image": "",
+      "name": "Narrador dos Episódios",
+      "path": "models/NarradorPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Mortal Kombat",
+      "description": "",
+      "dublador": "Rodrigo Horta",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987057610844962848/crop.png",
+      "name": "Shao Kahn",
+      "path": "models/ShaoKahnPipeline"
+    },
+    {
+      "author": "Dimitri, IBob, reflections7",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1015857357214982174/crop.png",
+      "name": "Felps",
+      "path": "models/Felps"
+    },
+    {
+      "author": "Cris",
+      "category": "Turma da Mônica",
+      "description": "",
+      "dublador": "Dirceu Oliveira",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987066327283925022/FranciscoBento.png",
+      "name": "Chico Bento",
+      "path": "models/Chico.pt"
+    },
+    {
+      "author": "Bin, Cris",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987006685665165352/unknown.png",
+      "name": "Orochi",
+      "path": "models/Orochi"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "Para fazer a risada dele é só digitar A-hyuck.",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994428172722520124/goofy.png",
+      "name": "Pateta",
+      "path": "models/PatetaPipeline"
+    },
+    {
+      "author": " Anônimo",
+      "category": "Scooby-Doo",
+      "description": "",
+      "dublador": "Mário Monjardim",
+      "image": "https://i.pinimg.com/originals/a8/d6/5d/a8d65dcac450c247222fa789af8bbb56.gif",
+      "name": "Salsicha",
+      "path": "models/Salsicha.pt"
+    },
+    {
+      "author": "Dimitri, IBob, Miranha, PHS",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Mário Vilela",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987012066151895080/barriga.png",
+      "name": "Seu Barriga",
+      "path": "models/BarrigaPipeline"
+    },
+    {
+      "author": " Anônimo",
+      "category": "League of Legends",
+      "description": "",
+      "dublador": "Jonas Mello",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994424688673562695/i.png",
+      "name": "Braum",
+      "path": "models/BraumPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Os Simpsons",
+      "description": "Feito com 2 minutos de áudio.",
+      "dublador": "Waldyr Sant'anna",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987072158079549510/homer.png",
+      "name": "Homer Simpson",
+      "path": "models/HomerSimpsonPipeline"
+    },
+    {
+      "author": "Dimitri, ySk1llz e Bob",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Marcelo Gastaldi",
+      "image": "https://pbs.twimg.com/profile_images/1634490435/images__1__400x400.jpg",
+      "name": "Chapolin Colorado",
+      "path": "models/ChapolinPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987063203563458580/crop.png",
+      "name": "Galo Cego",
+      "path": "models/GaloCego"
+    },
+    {
+      "author": "Cris e Dimitri",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994426075415314472/jackpreto.png",
+      "name": "Jack Preto",
+      "path": "models/JackRetreinadoPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://www.seekpng.com/png/full/910-9108890_morshu-morshu-zelda.png",
+      "name": "Morshu (Português)",
+      "path": "models/MorshuPipeline"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987030366806224957/unknown.png",
+      "name": "Morshu Fandub",
+      "path": "models/MorshuFandubRetreinadoPipeline"
+    },
+    {
+      "author": " Anônimo",
+      "category": "Memes",
+      "description": "Possívelmente o pai do habbopoop",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987068653021331517/crop.png",
+      "name": "Gaben",
+      "path": "models/CertamenteQueSimPipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Cantores",
+      "description": "",
+      "dublador": "",
+      "image": "https://www.blogs.unicamp.br/socialmente/wp-content/uploads/sites/238/2012/01/sou-foda.jpg",
+      "name": "Vitinho Avassalador",
+      "path": "models/VitinhoPipeline"
+    },
+    {
+      "author": "Dimitri e ySk1llz",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Nelson Machado",
+      "image": "https://i.pinimg.com/originals/12/40/8a/12408aaedbb8707e4bdb011a385f6ad0.jpg",
+      "name": "Quase Nada",
+      "path": "models/QNPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Christiano Torreão",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987068836828307466/crop.png",
+      "name": "Junkrat",
+      "path": "models/JunkratPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Ângela Bonatti",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987067458693247097/crop.png",
+      "name": "Ana",
+      "path": "models/AnaPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Famosos",
+      "description": "Treinado na pipeline com 4 áudios total de 13 segundos.",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987056839072051250/crop.png",
+      "name": "Faustão",
+      "path": "models/Faustão"
+    },
+    {
+      "author": "J CrashBandicoot F",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987008664814637056/20220616_115944.jpg",
+      "name": "Gabs",
+      "path": "models/GabsYoutuber"
+    },
+    {
+      "author": "Dimitri e IBob",
+      "category": "Cantores",
+      "description": "",
+      "dublador": "",
+      "image": "https://lastfm.freetls.fastly.net/i/u/ar0/2f5c28e2ba2a1bb29a3123d6705f96a1.jpg",
+      "name": "Sabotage",
+      "path": "models/SaboPipeline"
+    },
+    {
+      "author": "Cris",
+      "category": "Dragon Ball",
+      "description": "",
+      "dublador": "Guilherme Lopes",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/986994086315688027/nappa.png",
+      "name": "Nappa",
+      "path": "models/NappaPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Pica Pau",
+      "description": "Retreinado com a copia da dataset original, 48 áudios no total, consegue ler frases inteiras agora sem dar problema ou bugs.",
+      "dublador": "José Carlos Guerra",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/986989239579332678/221_Sem_Titulo_20220521130635.png",
+      "name": "Smedley",
+      "path": "models/SmedleyPipeline2"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Star Wars",
+      "description": "",
+      "dublador": "Isaac Bardavid",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987074029435383868/crop.png",
+      "name": "Ben Kenobi",
+      "path": "models/BenKenobi"
+    },
+    {
+      "author": "Dimitri, Bob, Pedroso e Medi.",
+      "category": "Irmãos Mario",
+      "description": "Tem o mamãe luigi nos áudios.",
+      "dublador": "Jomeri Pozzoli",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/991147707555123320/unknown.png",
+      "name": "Luigi",
+      "path": "models/LuigiPipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Famosos",
+      "description": "Feito com 1 minuto de áudio.",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/991827732243689552/crop.png",
+      "name": "Silvio Santos",
+      "path": "models/SilvioSantosPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994429166546059324/king.png",
+      "name": "Rei / King Harkinian (Fandub)",
+      "path": "models/Rei_Fandub_Pipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Irmãos Mario",
+      "description": "",
+      "dublador": "Guilene Conte",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/994428672519979068/crop.png",
+      "name": "Princesa",
+      "path": "models/PrincesaPipeline"
+    },
+    {
+      "author": "Dimitri, IBob, Miranha, PHS",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Osmiro Campos",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/987010429861638154/girafales.png",
+      "name": "Professor Girafales",
+      "path": "models/GirafalesNovoPipeline"
+    },
+    {
+      "author": "Almeida011",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994429893997760572/moteltrivago.png",
+      "name": "Senhor Trivago",
+      "path": "models/TrivagoPipeline"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Famosos",
+      "description": "dança gatinho dança",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/993928099894923355/crop-1.png",
+      "name": "Rodrigo Faro",
+      "path": "models/vaidarnamoro_pipeline"
+    },
+    {
+      "author": "Lucas",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/470798879999393814/994303083209306255/unknown.png",
+      "name": "Enéas Carneiro",
+      "path": "models/EneasPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://www.icegif.com/wp-content/uploads/2022/01/icegif-1719.gif",
+      "name": "Albion Online",
+      "path": "models/AlbionPipeline"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Psicopata Americano",
+      "description": "",
+      "dublador": "José Luiz Barbeito",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/994458869541646396/PicsArt_07-07-01.24.08.png",
+      "name": "Patrick Bateman",
+      "path": "models/patrickbateman_pipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Cantores",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/994765390750154812/crop.png",
+      "name": "Ednaldo Pereira",
+      "path": "models/EdnaldoPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Cartoon Network",
+      "description": "pode citar algumas palavras como: '''cartoon network'', '''scooby-doo''', '''pikachu''', '''pokémon''', '''space ghost'''.",
+      "dublador": "",
+      "image": "",
+      "name": "Narrador da Biografia Toon",
+      "path": "models/BiografiaToonBR_Pipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Comercial",
+      "description": "é um remake do modelo que tá no Uberduck, porém refeito só com 3 minutos de data, tem ruído mas é fácil de remover depois.",
+      "dublador": "",
+      "image": "",
+      "name": "Anunciador da Teleshop (Anos 90)",
+      "path": "models/TeleshopBR90_Pipeline"
+    },
+    {
+      "author": "Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "treinado com apenas 13 minutos e 37 segundos de data com 71 áudios, ele pode pronunciar os nomes Karl, Chris e Chandler corretamente. ele também pode falar lamborghini.",
+      "dublador": "Duio Botta",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/997346848647946290/1657856382563.png",
+      "name": "MrBeast Brasil",
+      "path": "models/mrbeastbrasil_pipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/756781968351559754/997385482189160469/4801228637672a749325746afab4cd4a.jpg",
+      "name": "Douglassola",
+      "path": "models/douglassolaPipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Dudão (Fandub)",
+      "description": "Para fazer ele rir é só usar 'ah ah ah'.",
+      "dublador": "Luan.G.B",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/997559751355412666/crop.png",
+      "name": "Paçoca",
+      "path": "models/pacocaPipeline"
+    },
+    {
+      "author": "GabrielSteveMene e IBob012",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1000655387869065228/1658645183200.png",
+      "name": "Luciano Eduardo",
+      "path": "models/LucianoEduardoPipeline"
+    },
+    {
+      "author": "Wolfz e Francisco Morais",
+      "category": "Chaves/Chespirito",
+      "description": "Você pode utilizar essa voz pro seus Fã-DVD 's.",
+      "dublador": "",
+      "image": "",
+      "name": "Narrador dos DVD's",
+      "path": "models/NarradorDVD"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Memes",
+      "description": "olha a pedra",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/756781968351559754/1001515821442547793/1658850128703.png",
+      "name": "Cleiton Rasta",
+      "path": "models/CleitonPipeline"
+    },
+    {
+      "author": "Madruguinha, IBob",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Marcelo Gastaldi",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1001686338095030434/crop.png",
+      "name": "Doutor Chapatin",
+      "path": "models/DrChapatinPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Pica Pau",
+      "description": "",
+      "dublador": "Ricardo Mário",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1003050829797924904/crop.png",
+      "name": "Zeca Urubu",
+      "path": "models/ZecaUrubuPipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Pica Pau",
+      "description": "",
+      "dublador": "Olney Cazarré",
+      "image": "https://cdn.discordapp.com/attachments/917552013343088690/1003301372772503602/crop.png",
+      "name": "Pica Pau",
+      "path": "models/PicaPauPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Pica Pau",
+      "description": "",
+      "dublador": "Domício Costa",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1004912586078298122/crop.png",
+      "name": "Leôncio (1999)",
+      "path": "models/Leoncio1999"
+    },
+    {
+      "author": "Bubarino",
+      "category": "O incrível mundo de Gumball",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/964994341577834557/1005977022817906708/imagem_2022-08-07_201040692-removebg-preview.png",
+      "name": "Diretor Brown (Normal)",
+      "path": "models/DiretorBrownPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "O incrível mundo de Gumball",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/964994341577834557/1005977023220551710/imagem_2022-08-07_201118822-removebg-preview.png",
+      "name": "Diretor Brown (Bravo)",
+      "path": "models/DiretorBrownBravoPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/964994341577834557/1005977764832235632/imagem_2022-08-07_201546759-removebg-preview.png",
+      "name": "Arttur",
+      "path": "models/ArtturPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Jornalistas/Comunicadores",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/964994341577834557/1010363913109524570/export202208172044361340.png",
+      "name": "Gil Gomes",
+      "path": "models/GilGomesPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Bob Esponja",
+      "description": "",
+      "dublador": "Felipe Di Nardo",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010631106539827210/crop.png",
+      "name": "Seu Siriguejo",
+      "path": "models/SiriguejoPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Bob Esponja",
+      "description": "",
+      "dublador": "Sérgio Moreno",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010631269291397170/crop.png",
+      "name": "Patrick Estrela",
+      "path": "models/PatrickPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Bob Esponja",
+      "description": "",
+      "dublador": "Tatá Guarnieri",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1012515054433873930/1661028469785.png",
+      "name": "Narrador Francês",
+      "path": "models/NarradorFrancesPipeline"
+    },
+    {
+      "author": "negaodaBL e Dimitri",
+      "category": "Bob Esponja",
+      "description": "",
+      "dublador": "Daoiz Cabezudo",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010633009738817567/crop.png",
+      "name": "Lula Molusco",
+      "path": "models/LulaMoluscoPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Garfield",
+      "description": "",
+      "dublador": "Carlos Marques",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010650758154301681/garfield-icone.png",
+      "name": "Garfield",
+      "path": "models/GarfieldPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Star Wars",
+      "description": "",
+      "dublador": "Ednaldo Lucena",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010636316851044393/crop.png",
+      "name": "Conde Dookan",
+      "path": "models/CondeDookanPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "Christiane Louise",
+      "image": "https://cdn.discordapp.com/attachments/917552013343088690/1010660237528805536/margarida-icone.png",
+      "name": "Margarida",
+      "path": "models/MargaridaPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010655256490803281/minnie-icone.png?width=450&height=450",
+      "name": "Minnie Mouse",
+      "path": "models/minniemouse_pipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "DC Universe",
+      "description": "",
+      "dublador": "Bernardo Coutinho",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1010676926890901575/freeze.gif",
+      "name": "Robin (The Batman 2004)",
+      "path": "models/RobinBCPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Harry Potter",
+      "description": "",
+      "dublador": "Caio César",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010726844871479406/harry-icone.png",
+      "name": "Harry Potter",
+      "path": "models/HarryFuckingPotter"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "DC Universe",
+      "description": "Pode rir com \"hahaha\".",
+      "dublador": "Darcy Pedrosa",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010729706007564339/coringa-bas-icone.png",
+      "name": "Coringa (Batman: A Série Animada)",
+      "path": "models/CoringaSeriePipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "DC Universe",
+      "description": "",
+      "dublador": "Isaac Schneider",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010726451458355270/crop.png",
+      "name": "Coringa (Liga da Justiça)",
+      "path": "models/CoringaJLPipeline"
+    },
+    {
+      "category": "Disney",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010726991181402112/PicsArt_08-20-10.47.53.png",
+      "name": "Bafo",
+      "path": "models/BafoPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010734956592504942/capitao-icone.png",
+      "name": "Capitão Gancho",
+      "path": "models/CapitaoGanchoPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Scooby-Doo",
+      "description": "",
+      "dublador": "Luís Manuel",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010740227779866744/fred-icone.png",
+      "name": "Fred Jones",
+      "path": "models/FredJonesPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Cartoon Network",
+      "description": "",
+      "dublador": "Hamilton Ricardo",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1010742423472832624/cicatriz-icone.png",
+      "name": "Cicatriz",
+      "path": "models/CicatrizPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Disney",
+      "description": "",
+      "dublador": "Nelson Machado",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1010753336229761054/grilo-icone.png",
+      "name": "Grilo Falante",
+      "path": "models/griloquefalawtf_pipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Star Wars",
+      "description": "",
+      "dublador": "Rodney Gomes",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1011438818001420308/yoda-icone.png",
+      "name": "Mestre Yoda (Prequela)",
+      "path": "models/MestreYodaPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Ben 10",
+      "description": "",
+      "dublador": "Ana Lúcia Menezes",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1011440880420388924/gwen-cione.png",
+      "name": "Gwen Tennyson",
+      "path": "models/gwenusatenisfrnocap_pipeline"
+    },
+    {
+      "author": "Almeida011",
+      "category": "Os Jetsons",
+      "description": "",
+      "dublador": "Raimundo Drupat",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1013145919404912751/georgejetson-icone.png",
+      "name": "George Jetson",
+      "path": "models/GeorgeJetsonPipeline"
+    },
+    {
+      "author": "Almeida011",
+      "category": "Memes",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1013722361075339295/crop.png",
+      "name": "Papaco",
+      "path": "models/PapacoPipeline"
+    },
+    {
+      "author": "-PV-, J CrashBandicoot F",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1015703494033944596/unknown.png",
+      "name": "Souzones (HUEstation)",
+      "path": "models/HUEstationPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "O Laboratório de Dexter",
+      "description": "",
+      "dublador": "José Luiz Barbeito",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1015780138442555533/crop.png",
+      "name": "Dexter",
+      "path": "models/DexterPipeline"
+    },
+    {
+      "author": "Jared, IBob",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1015779529211531375/flip.png",
+      "name": "David Herick",
+      "path": "models/DavidHerickPipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Sonic, o Ouriço",
+      "description": "https://www.youtube.com/channel/UCvF5zBZpU0PeNTOdCa97HTA",
+      "dublador": "Otávio Sidney",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1019399734626103366/unknown.png",
+      "name": "Shadow o Ouriço (Fandublagem)",
+      "path": "models/ShadowOSPipeline"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Alvin e os esquilos",
+      "description": "",
+      "dublador": "Fábio Lucindo",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1021916735462445128/crop.png",
+      "name": "Alvin",
+      "path": "models/AlvinPipeline"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Inspetor Bugiganga",
+      "description": "feito com apenas 4 episódios e com 11 minutos de data",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1021453047857152040/crop.png",
+      "name": "Inspetor Bugiganga (Clubti)",
+      "path": "models/InspetorBugigangaPedroso"
+    },
+    {
+      "author": "Dean Winchester, IBob",
+      "category": "Homem Aranha (2002)",
+      "description": "",
+      "dublador": "Roberto Macedo",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1015689026281418803/crop.png",
+      "name": "Otto Octavius (Doutor Octopus)",
+      "path": "models/EstevaoPipeline"
+    },
+    {
+      "author": "Dean Winchester, IBob",
+      "category": "300 (Filme)",
+      "description": "",
+      "dublador": "Júlio Cézar",
+      "image": "https://cdn.discordapp.com/attachments/917552013343088690/1000653216339460096/freeze.gif",
+      "name": "Leônidas",
+      "path": "models/LeonidasPipeline"
+    },
+    {
+      "author": "IBob",
+      "category": "Irmãos Mario",
+      "description": "Pode rir com \"Hahahaha.\", \"Ehehe\" e \"Uhuhahahaha!\" no começo/final das frases.",
+      "dublador": "Paulo Flores",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1021919394709897266/unknown.png",
+      "name": "Rei Koopa",
+      "path": "models/ReiKoopaPipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Ben 10",
+      "description": "",
+      "dublador": "Julio Cesar",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1024477454720573500/unknown.png",
+      "name": "Enormossauro",
+      "path": "models/EnormossauroPipeline"
+    },
+    {
+      "author": "Dimitri e Lucas",
+      "category": "Youtubers/Streamers",
+      "description": "https://www.youtube.com/user/cazum8",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1024138411512180736/crop.png",
+      "name": "Cazum8",
+      "path": "models/cazum8_pipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1024138131164905513/unknown.png",
+      "name": "Getúlio Vargas",
+      "path": "models/getuliovargas_pipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Dudão (Fandub)",
+      "description": "",
+      "dublador": "Luan.G.B",
+      "image": "https://media.discordapp.net/attachments/1023127328815067249/1024094476207136798/Corere_duda_2-removebg-preview.png",
+      "name": "Dudão",
+      "path": "models/DudaoPipeline"
+    },
+    {
+      "author": "PV",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1021915519147843604/unknown.png",
+      "name": "MrGuinas",
+      "path": "models/mrguinas_pipeline"
+    },
+    {
+      "author": "Almeida011",
+      "category": "O show do Zé Colmeia",
+      "description": "",
+      "dublador": "Miguel Rosenberg",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1024171111811915796/unknown.png?width=450&height=450",
+      "name": "Zé Colmeia",
+      "path": "models/zécolmeia_pipeline"
+    },
+    {
+      "author": "Lucas",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "image": "https://media.discordapp.net/attachments/470798879999393814/994303083209306255/unknown.png",
+      "name": "Eneas Carneiro (Agressivo)",
+      "path": "models/EneasAgressivo"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Ben 10",
+      "description": "",
+      "dublador": "Waldyr Sant'anna",
+      "image": "https://media.discordapp.net/attachments/1023127328815067249/1026174342448545812/images__47__2-removebg-preview.png",
+      "name": "Vô Max",
+      "path": "models/vomaxpipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Procurando Nemo",
+      "description": "",
+      "dublador": "Júlio Chaves",
+      "image": "https://media.discordapp.net/attachments/1023127328815067249/1026174531976560672/crop.png?width=473&height=473",
+      "name": "Marlin",
+      "path": "models/marlinpipeline"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Gta San Andreas",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/1023127328815067249/1026174870360432741/images__46__3-removebg-preview.png",
+      "name": "Carl Johnson (Português)",
+      "path": "models/cjtestepipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Team Fortress 2",
+      "description": "Tentativa de fazer um modelo do spy que consiga falar português.",
+      "dublador": "Dennis Bateman",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1029873097861513226/unknown.png",
+      "name": "Spy (Português)",
+      "path": "models/SpyIPAPipeline"
+    },
+    {
+      "author": "IBob e Lu9",
+      "category": "Famosos",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1030059194096832553/crop.png",
+      "name": "Faustão (Agressivo)",
+      "path": "models/FaustãoAgressivoIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1030937490074390598/crop.png",
+      "name": "Enéas Carneiro Agressivo V2",
+      "path": "models/EneasAgressivoIPAV2"
+    },
+    {
+      "author": "IBob",
+      "category": "Sonic, o Ouriço",
+      "description": "Pode rir com \"Hahahahaa,\" \"Hahahahahahahaha!\" e um \"Haha,!\" pra se usar entre as frases.",
+      "dublador": "Isaac Bardavid",
+      "image": "https://cdn.discordapp.com/attachments/986986749945348196/1033799586709508116/unknown.png",
+      "name": "Dr. Robotnik (Sonic Boom)",
+      "path": "models/EggmanSBPipeline"
+    },
+    {
+      "author": "IBob e Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 1,
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1033799924732678185/unknown.png",
+      "name": "Pai Troll (Agressivo)",
+      "path": "models/PaiTrollMultispeaker"
+    },
+    {
+      "author": "IBob e Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1033799924732678185/unknown.png",
+      "name": "Pai Troll",
+      "path": "models/PaiTrollMultispeaker"
+    },
+    {
+      "author": "Cris140",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Duda Ribeiro",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1034925242344280164/crop.png",
+      "name": "Reaper",
+      "path": "models/ReaperIPA"
+    },
+    {
+      "author": "IBob012",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1033800203083448370/unknown.png",
+      "name": "Zelune",
+      "path": "models/ZelunePipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Wellington Lima",
+      "id": "0",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1050392482984230942/crop.png",
+      "name": "Wrecking Ball",
+      "path": "models/WreckingBallIPA"
+    },
+    {
+      "author": "J CrashBandicoot F",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": "0",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1051557112829968404/image.png",
+      "name": "Core",
+      "path": "models/CorePipeline"
+    },
+    {
+      "author": "Dimitri, Bubarino e Jared",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": "0",
+      "image": "https://media.discordapp.net/attachments/756781968351559754/1051920345520668733/AMLnZu--8XhUdj_Qz2a91LkG86qtCtAuIoBfzpkRVS2x8A3Ds900-c-k-c0x00ffffff-no-rj.png",
+      "name": "Refúgio Mental",
+      "path": "models/refugiomental_ipa"
+    },
+    {
+      "author": "Pedroso",
+      "category": "Jornalistas/Comunicadores",
+      "description": "Tem a frase \"Oferecimento\" no modelo.",
+      "dublador": "",
+      "id": "0",
+      "image": "",
+      "name": "Narrador Globo",
+      "path": "models/narradorglobo"
+    },
+    {
+      "author": "Bubarino",
+      "category": "Políticos",
+      "description": "Tentativa de um modelo do Barack Obama que fale português.",
+      "dublador": "",
+      "id": "0",
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1052633279561486387/export202212082224293650.png",
+      "name": "Barack Obama (Português)",
+      "path": "models/BarackObama"
+    },
+    {
+      "author": "Cris140",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Marisa Leal",
+      "id": "0",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1053104486505267220/crop.png",
+      "name": "Orisa",
+      "path": "models/OrisaIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Overwatch",
+      "description": "",
+      "dublador": "Sheila Dorfman",
+      "id": 0,
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1053455229313634314/crop.png",
+      "name": "Athena",
+      "path": "models/AthenaIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1059840731663061093/crop.png",
+      "name": "Chiquinha",
+      "path": "models/ChiquinhaIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1059840397901316106/crop.png",
+      "name": "Lula",
+      "path": "models/LulaPipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Políticos",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1059840534581092382/crop.png",
+      "name": "Jair Bolsonaro",
+      "path": "models/BolsonaroIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1066128496440639620/icone_drawnmask.png",
+      "name": "Drawn Mask",
+      "path": "models/DrawnMaskIPA"
+    },
+    {
+      "author": " Anônimo",
+      "category": "League of Legends",
+      "description": "",
+      "dublador": "Isaura Gomes",
+      "id": 0,
+      "image": "",
+      "name": "Narradora",
+      "path": "models/NarradoraLOL"
+    },
+    {
+      "author": "Cris140",
+      "category": "Disney",
+      "description": "",
+      "dublador": "Paulo Flores",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/894136424968884227/1066135346905108520/imagem_2023-01-20_192100184-removebg-preview.png",
+      "name": "Mufasa",
+      "path": "models/MufasaIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Pica Pau",
+      "description": "Ele está a procura de rachadores.",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1072180033797505056/crop.png",
+      "name": "Policial",
+      "path": "models/RachadorIPA"
+    },
+    {
+      "author": "Bubarino e Dimitri",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1072223061597765692/crop.png",
+      "name": "Saiko",
+      "path": "models/SaikoIPA"
+    },
+    {
+      "author": "IBob",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1066128496440639620/icone_drawnmask.png",
+      "name": "Drawn Mask (Vídeos mais antigos)",
+      "path": "models/DrawnMaskAntigoIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Disney",
+      "description": "",
+      "dublador": "Rodney Gomes",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/986986749945348196/1066591792482504744/crop.png",
+      "name": "Iago",
+      "path": "models/IagoIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Youtubers/Streamers",
+      "description": "",
+      "dublador": "",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1108470108608807122/regis_semfundo.webp",
+      "name": "Regis Tadeu",
+      "path": "models/registadeupipeline"
+    },
+    {
+      "author": "IBob012",
+      "category": "Toy Story",
+      "description": "",
+      "dublador": "Alexandre Lippiani",
+      "id": 0,
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1108464529811194026/i-tools.png",
+      "name": "Woody",
+      "path": "models/WoodyIPA"
+    },
+    {
+      "author": "Cris140",
+      "category": "Chaves/Chespirito",
+      "description": "",
+      "dublador": "Jorge Alex",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1108870611159220365/imagem_2023-05-18_163518484-removebg-preview.png",
+      "name": "Delegado Morales",
+      "path": "models/DelegadoMoralesPipeline"
+    },
+    {
+      "author": "negaodabl",
+      "category": "Atores",
+      "description": "",
+      "dublador": "Alexandre Moreno",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1112104021071773726/crop.png",
+      "name": "Adam Sandler",
+      "path": "models/adamsandler"
+    },
+    {
+      "author": "Cris140",
+      "category": "Dragon Ball",
+      "description": "",
+      "image": "https://media.discordapp.net/attachments/986986749945348196/992148158018760784/crop_1.png",
+      "name": "Goku",
+      "path": "models/GokuIPA"
+    },
+    {
+      "author": "negaodaBL",
+      "category": "Bob Esponja",
+      "description": "Esse modelo consegue rir com \"hahaha\"",
+      "dublador": "Wendel Bezerra",
+      "image": "https://media.discordapp.net/attachments/932403170104205364/1010755918465605695/crop.png",
+      "name": "Bob Esponja",
+      "path": "models/BobEsponjaPipeline"
+    },
+    {
+      "author": "Cris140",
+      "category": "Looney Tunes",
+      "description": "",
+      "dublador": "Marcio Simões",
+      "image": "https://cdn.discordapp.com/attachments/932403170104205364/1142210341690953759/imagem_2023-08-18_173543057.png",
+      "name": "Patolino",
+      "path": "models/PatolinoIPA"
+    },
+    {
+      "author": "negaodabl",
+      "category": "Sonic, o Ouriço",
+      "description": "",
+      "dublador": "Ana Lúcia Menezes",
+      "id": 0,
+      "image": "https://media.discordapp.net/attachments/917552013343088690/1112102690542063676/9c951dd41388544e9ee42fb9e90c64d9.png",
+      "name": "Amy Rose",
+      "path": "models/AmyRose"
+    }
+  ]
+}
