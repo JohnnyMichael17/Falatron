@@ -326,7 +326,8 @@ public class MainActivity extends AppCompatActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        
+
+
         text_box = findViewById(R.id.text_box);
         TextView contadorDeCaracteres = findViewById(R.id.contadorDeCaracteres);
 
@@ -472,6 +473,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         muteButton = findViewById(R.id.volume_on);
         muteButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -501,6 +503,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
 
         //------ Implementação do botão de Compartilhar áudio, chama o método shareAudio, responsável por compartilhar o áudio em outros Aplicativos ------//
         findViewById(R.id.share_button).setOnClickListener(new View.OnClickListener() {
