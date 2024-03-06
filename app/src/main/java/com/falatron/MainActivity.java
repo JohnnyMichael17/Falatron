@@ -5,6 +5,8 @@ import static androidx.constraintlayout.widget.ConstraintLayoutStates.TAG;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
 import androidx.core.content.FileProvider;
 import androidx.drawerlayout.widget.DrawerLayout;
 
@@ -324,8 +326,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-
-
+        
         text_box = findViewById(R.id.text_box);
         TextView contadorDeCaracteres = findViewById(R.id.contadorDeCaracteres);
 
@@ -373,11 +374,11 @@ public class MainActivity extends AppCompatActivity {
                     loadingProgressBar.setVisibility(View.VISIBLE);
                     card_mediaPlayer.setVisibility(View.GONE);
 
-                    if (contadorDeAudios == 7) {
+                    if (contadorDeAudios == 5) {
                         avaliaçãoDoApp();
-                    } else if (contadorDeAudios == 60) {
+                    } else if (contadorDeAudios == 34) {
                         avaliaçãoDoApp();
-                        contadorDeAudios = 8;
+                        contadorDeAudios = 6;
                     }
                     contadorDeAudios++;
 
@@ -471,7 +472,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         muteButton = findViewById(R.id.volume_on);
         muteButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -494,22 +494,20 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.download_button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                if (checkSelfPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                    requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, PERMISSION_REQUEST_CODE);
+                if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, PERMISSION_REQUEST_CODE);
                 } else {
                     saveAudioFromBase64();
                 }
             }
         });
 
-
         //------ Implementação do botão de Compartilhar áudio, chama o método shareAudio, responsável por compartilhar o áudio em outros Aplicativos ------//
         findViewById(R.id.share_button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (checkSelfPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                    requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, PERMISSION_REQUEST_CODE);
+                if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(MainActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, PERMISSION_REQUEST_CODE);
                 } else {
                     shareAudio(base64Audio);
                 }
@@ -663,7 +661,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
 
     //------ Metódo que Converte JSON em uma Stringm usado no metodo performApiRequest como parâmetro------//
     public String convertJsonString(String chave1, String chave2) {
@@ -932,7 +929,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
     @Override
     protected void onDestroy() {
         super.onDestroy();
@@ -1040,7 +1036,6 @@ public class MainActivity extends AppCompatActivity {
     public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
         if (requestCode == PERMISSION_REQUEST_CODE) {
             if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                saveAudioFromBase64();
             } else {
                 // Apresenta uma mensagem quando a permissão é negada
                 showPermissionDeniedMessage();
